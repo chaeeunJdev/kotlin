@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#201D1D" />
+    <corners android:radius="30dp" />
+    <stroke
+        android:width="7dp"
+        android:color="#25541B" />
+    <gradient
+        android:startColor="@color/cardview_light_background"
+        android:endColor="@color/design_default_color_error" />
+</shape>
